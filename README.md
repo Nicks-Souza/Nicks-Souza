@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Eu sou o Nicolas! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Twitter Follow]([https://img.shields.io/twitter/follow/Nicolas15152941?label=Follow)](https://twitter.com/intent/follow?screen_name=Nicolas15152941](https://twitter.com/Nicolas15152941))
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nicolas15152941?label=Follow)](https://twitter.com/intent/follow?screen_name=Nicolas15152941](https://twitter.com/Nicolas15152941))
 [![Linkedin](https://img.shields.io/badge/-Nicolas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-de-souza-862b50248/)](https://www.linkedin.com/in/nicolas-de-souza-862b50248/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
