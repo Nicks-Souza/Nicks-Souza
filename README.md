@@ -17,14 +17,3 @@ const anmol = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Amo me conectar com pessoas diferentes</b> então se você quiser me dar oi <b>eu vou ficar feliz em te conhecer!</b> 😊</em>
-
-
-
-
-
- Last Updated on 15/05/2024 00:25:21 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
