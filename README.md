@@ -16,4 +16,4 @@ const nicks = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Amo me conectar com pessoas diferentes</b> então se você quiser me dar oi <b>eu vou ficar feliz em te conhecer!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Amo me conectar com pessoas diferentes então se você quiser me dar oi eu vou ficar feliz em te conhecer!</b> 😊</em>
