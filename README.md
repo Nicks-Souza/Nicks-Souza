@@ -3,6 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nicolas15152941?label=Follow)](https://twitter.com/intent/follow?screen_name=Nicolas15152941)
 [![Linkedin](https://img.shields.io/badge/-Nicolas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-de-souza-862b50248/)](https://www.linkedin.com/in/nicolas-de-souza-862b50248/)
+![GitHub followers](https://img.shields.io/github/followers/Nicks-Souza?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
