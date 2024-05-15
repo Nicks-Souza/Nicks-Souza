@@ -11,7 +11,7 @@
 const nicks = {
     pronomes: "Ele" | "Dele",
     linguagens: ["Html", "Css", "Javascript", "C#"],
-    SobreMim: ["web dev", "tech", "biologia!"],
+    SobreMim: ["web dev", "tech", "biologia", "bioinformatica"],
     FocoAtual: "Em busca do primeiro emprego"
 };
 ```
