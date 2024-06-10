@@ -10,8 +10,8 @@
 ```javascript
 const nicks = {
     pronomes: "Ele" | "Dele",
-    linguagens: ["Html", "Css", "Javascript", "C#"],
-    SobreMim: ["web dev", "tech", "biologia", "bioinformatica"],
+    linguagens: ["Html", "Css", "Javascript", "React", "C#"],
+    SobreMim: ["web dev", "tech", "frontend"],
     FocoAtual: "Em busca do primeiro emprego"
 };
 ```
